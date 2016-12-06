@@ -10,3 +10,4 @@ Mike Young
 ## Lecture List
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Concepts (GDC)
+* BT03 Setting up a GitHub "Repo"
